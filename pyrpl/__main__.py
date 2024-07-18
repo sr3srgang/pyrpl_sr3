@@ -1,6 +1,7 @@
 """
 Script to launch pyrpl from the command line.
 
+#MM 20240718 new sr3 branch
 Type python -m pyrpl [config_file_name] to create
 a Pyrpl instance with the config file
 "config_file_name"
